@@ -1,0 +1,23 @@
+{
+  "name": "mygame",
+  "version": "1.0.0",
+  "description": "Learn Game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TBD"
+  },
+  "keywords": [
+    "gameLearn"
+  ],
+  "author": "Clive Makong'O",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1",
+    "phaser": "^3.86.0"
+  }
+}
